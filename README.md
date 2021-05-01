@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **marcel.resende@yahoo.combr**
 
-- ⚡ Fun fact **I'm owner the fit truck @marombafoods**
+- ⚡ Fun fact **I'm owner the fit truck <a href='http://instagram.com/marombafoods'>@marombafoods</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
