@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/celfons](https://github.com/celfons)
 
-- 📝 I regularly write articles on [https://www.zup.com.br/blog/padrao-saga-para-arquitetura-de-microsservicos](https://www.zup.com.br/blog/padrao-saga-para-arquitetura-de-microsservicos)
+- 📝 I writed articles like [https://www.zup.com.br/blog/padrao-saga-para-arquitetura-de-microsservicos](https://www.zup.com.br/blog/padrao-saga-para-arquitetura-de-microsservicos)
 
 - 📫 How to reach me **marcel.resende@yahoo.combr**
 
