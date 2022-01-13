@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/celfons" target="blank"><img src="https://img.shields.io/twitter/follow/celfons?logo=twitter&style=for-the-badge" alt="celfons" /></a> </p>
 
-- 🔭 I’m currently working on [Zup](https://www.zup.com.br/)
+- 🔭 I’m currently working on [Stone](https://www.stone.com.br/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/celfons](https://github.com/celfons)
 
 - 📝 I writed articles like [https://www.zup.com.br/blog/padrao-saga-para-arquitetura-de-microsservicos](https://www.zup.com.br/blog/padrao-saga-para-arquitetura-de-microsservicos)
 
 - 📫 How to reach me **marcel.resende@yahoo.combr**
-
-- ⚡ Fun fact **I'm owner the fit truck <a href='http://instagram.com/marombafoods'>@marombafoods</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
