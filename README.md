@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/celfons" target="blank"><img src="https://img.shields.io/twitter/follow/celfons?logo=twitter&style=for-the-badge" alt="celfons" /></a> </p>
 
-- 🔭 I’m currently working on [bradesco](https://www.bradesco.com.br/)
+- 🔭 I’m currently working on [conta azul]([https://www.bradesco.com.br/](https://contaazul.com/))
 
 - 👨‍💻 All of my projects are available at [https://github.com/celfons](https://github.com/celfons)
 
